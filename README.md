@@ -7,7 +7,7 @@ This is a simple keylogger program written in Python using the `keyboard` librar
 1. Clone the repository:
 
    ```
-   https://github.com/CaptHarsh/PRODIGY_CS_04.git
+   git clone https://github.com/CaptHarsh/PRODIGY_CS_04.git
    ```
 
 2. Install the required dependencies:
